@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mcafatimajafari.github.io/blog/'
 languageCode = 'en-us'
 title = 'RollNo:2069, New Hugo Site'
 theme="aether"
